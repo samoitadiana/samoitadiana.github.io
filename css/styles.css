@@ -1,0 +1,22 @@
+body{
+    background-color: aqua;
+}
+h3{
+    color: crimson;
+}
+/*img{
+    height: 100px;
+    width: 100px;
+}*/
+p{
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 150%;
+}
+div.hobbies{
+    color: darkmagenta;
+
+}
+#aspirations{
+    color: red;
+}
